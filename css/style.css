@@ -16,6 +16,7 @@ a:hover {
 .box1 {
     background-color:darkcyan;
     padding: 20px;
+    font-family: 'Cairo', sans-serif;
     
 }
 
@@ -30,7 +31,8 @@ a:hover {
     align-self: center;
     background-color: aliceblue;
     border-style: solid;
-    border-color:darkslategray
+    border-color:darkslategray;
+    font-family: 'Cairo', sans-serif;
 
 
 }
@@ -46,6 +48,7 @@ a:hover {
     text-align: center;
     margin: 10px;
     margin-left:45%;
+    font-family: 'Cairo', sans-serif;
     
 }
 
